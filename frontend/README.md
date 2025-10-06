@@ -84,8 +84,6 @@ cd password-vault
 
 2️⃣ Install Dependencies
 npm install
-# or
-yarn install
 
 3️⃣ Create Environment File .env
 MONGO_URI=your_mongo_connection_string
@@ -96,42 +94,16 @@ NEXT_PUBLIC_ENCRYPTION_KEY=your_client_side_aes_key
 npm run dev
 
 
-Visit ➜ http://localhost:3000
+## 🚀 Visit ➜ http://localhost:3000
 
-🧪 Demo Flow (Screen Recording)
-
-Sign up (create a new account)
-
-Login using your credentials
-
-Generate a strong password
-
-Save it to the vault
-
-Search, edit, or delete an entry
-
-Copy password → auto-clears after 10s
-
-Keep the flow between 60–90 seconds for your submission video.
-
-🔍 Crypto Library Note
+## 🔍 Crypto Library Note
 
 Used Crypto-JS (AES) for client-side encryption because:
-
-Lightweight
-
-Battle-tested
-
-Works directly in browsers for secure local encryption
-
-## 📚 Deliverables Checklist
-
-✅ Live demo URL (Vercel / Render)
-✅ Repo link with this README
-✅ Short note on crypto (included above)
-✅ 60–90 sec demo video showing full flow
+- Lightweight
+- Battle-tested
+- Works directly in browsers for secure local encryption
 
 ## 🌐 Live Demo & Repo
 
 🟢 Live Demo: coming soon
-📦 GitHub Repo: https://github.com/<your-username>/password-vault
+📦 GitHub Repo: https://github.com/ShalleySharma/password-vault
