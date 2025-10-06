@@ -55,26 +55,6 @@ Users can generate, encrypt, store, edit, and delete passwords — all **securel
 
 ---
 
-## 📦 Folder Structure
-
-project/
-├── frontend/
-│ ├── pages/
-│ ├── components/
-│ ├── utils/encryption.ts
-│ ├── services/api.ts
-│ └── styles/
-├── backend/
-│ ├── models/User.js
-│ ├── models/VaultItem.js
-│ ├── routes/auth.js
-│ ├── routes/vault.js
-│ └── server.js
-└── README.md
-
-
----
-
 ## ⚙️ Setup Guide
 
 ### 1️⃣ Clone the Repository
@@ -105,5 +85,5 @@ Used Crypto-JS (AES) for client-side encryption because:
 
 ## 🌐 Live Demo & Repo
 
-🟢 Live Demo: coming soon
-📦 GitHub Repo: https://github.com/ShalleySharma/password-vault
+**🟢 Live Demo:** coming soon
+**📦 GitHub Repo:** https://github.com/ShalleySharma/password-vault
