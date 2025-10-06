@@ -34,7 +34,7 @@ Users can generate, encrypt, store, edit, and delete passwords — all **securel
 
 ## 🔒 Security Highlights
 
-> “All vault data is encrypted on the client side before being sent — the server never sees plain text.”
+> "All vault data is encrypted on the client side before being sent — the server never sees plain text."
 
 - AES encryption (via **crypto-js / Web Crypto API**)  
 - JWT tokens for user sessions  
@@ -54,7 +54,6 @@ Users can generate, encrypt, store, edit, and delete passwords — all **securel
 | Encryption | AES (Client-side)                  |
 
 ---
-
 
 ## ⚙️ Setup Guide
 
